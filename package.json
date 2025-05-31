@@ -1,0 +1,16 @@
+{
+  "name": "copilottest",
+  "version": "1.0.0",
+  "main": "bmi-utils.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha bmi-utils.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
